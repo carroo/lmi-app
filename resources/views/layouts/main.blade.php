@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@yield('pageTitle')</title>
-    
+    <title>@yield('pageTitle') akjshdkjsahdhjksah</title>
+
     <link rel="shortcut icon" href="./assets/compiled/svg/favicon.svg" type="image/x-icon">
     <link rel="stylesheet" href="./assets/compiled/css/app.css">
     <link rel="stylesheet" href="./assets/compiled/css/app-dark.css">
@@ -58,255 +58,255 @@
                 <div class="sidebar-menu">
                     <ul class="menu">
                         <li class="sidebar-title">Direktorat</li>
-                        
+
                         <li
                             class="sidebar-item active ">
                             <a href="index.html" class='sidebar-link'>
                                 <i class="bi bi-grid-fill"></i>
                                 <span>Beranda</span>
                             </a>
-                            
+
 
                         </li>
-                        
+
                         <li
                             class="sidebar-item  has-sub">
                             <a href="#" class='sidebar-link'>
                                 <i class="bi bi-stack"></i>
                                 <span>DPK</span>
                             </a>
-                            
+
                             <ul class="submenu">
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="./component-accordion.html" class="submenu-link">Accordion</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-alert.html" class="submenu-link">Alert</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-badge.html" class="submenu-link">Badge</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-breadcrumb.html" class="submenu-link">Breadcrumb</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-button.html" class="submenu-link">Button</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-card.html" class="submenu-link">Card</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-carousel.html" class="submenu-link">Carousel</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-collapse.html" class="submenu-link">Collapse</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-dropdown.html" class="submenu-link">Dropdown</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-list-group.html" class="submenu-link">List Group</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-modal.html" class="submenu-link">Modal</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-navs.html" class="submenu-link">Navs</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-pagination.html" class="submenu-link">Pagination</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-progress.html" class="submenu-link">Progress</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-spinner.html" class="submenu-link">Spinner</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-toasts.html" class="submenu-link">Toasts</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="component-tooltip.html" class="submenu-link">Tooltip</a>
-                                    
+
                                 </li>
-                                
+
                             </ul>
-                            
+
 
                         </li>
-                        
+
                         <li
                             class="sidebar-item  has-sub">
                             <a href="#" class='sidebar-link'>
                                 <i class="bi bi-collection-fill"></i>
                                 <span>DP</span>
                             </a>
-                            
+
                             <ul class="submenu ">
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="extra-component-avatar.html" class="submenu-link">Avatar</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="extra-component-divider.html" class="submenu-link">Divider</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="extra-component-date-picker.html" class="submenu-link">Date Picker</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="extra-component-sweetalert.html" class="submenu-link">Sweet Alert</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="extra-component-toastify.html" class="submenu-link">Toastify</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="extra-component-rating.html" class="submenu-link">Rating</a>
-                                    
+
                                 </li>
-                                
+
                             </ul>
-                            
+
 
                         </li>
-                        
+
                         <li
                             class="sidebar-item  has-sub">
                             <a href="#" class='sidebar-link'>
                                 <i class="bi bi-grid-1x2-fill"></i>
                                 <span>DSD</span>
                             </a>
-                            
+
                             <ul class="submenu ">
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="layout-default.html" class="submenu-link">Default Layout</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="layout-vertical-1-column.html" class="submenu-link">1 Column</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="layout-vertical-navbar.html" class="submenu-link">Vertical Navbar</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="layout-rtl.html" class="submenu-link">RTL Layout</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="layout-horizontal.html" class="submenu-link">Horizontal Menu</a>
-                                    
+
                                 </li>
-                                
+
                             </ul>
-                            
+
 
                         </li>
-                        
+
                         <li class="sidebar-title">Kegiatan</li>
-                        
+
                         <li
                             class="sidebar-item  has-sub">
                             <a href="#" class='sidebar-link'>
                                 <i class="bi bi-hexagon-fill"></i>
                                 <span>Ramadhan</span>
                             </a>
-                            
+
                             <ul class="submenu ">
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="form-element-input.html" class="submenu-link">Input</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="form-element-input-group.html" class="submenu-link">Input Group</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="form-element-select.html" class="submenu-link">Select</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="form-element-radio.html" class="submenu-link">Radio</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="form-element-checkbox.html" class="submenu-link">Checkbox</a>
-                                    
+
                                 </li>
-                                
+
                                 <li class="submenu-item  ">
                                     <a href="form-element-textarea.html" class="submenu-link">Textarea</a>
-                                    
+
                                 </li>
-                                
+
                             </ul>
-                            
+
 
                         </li>
-                        
+
                         <li
                             class="sidebar-item  ">
                             <a href="form-layout.html" class='sidebar-link'>
                                 <i class="bi bi-file-earmark-medical-fill"></i>
                                 <span>Qurban</span>
                             </a>
-                            
 
-                        </li>            
-                        
+
+                        </li>
+
                     </ul>
                 </div>
             </div>
