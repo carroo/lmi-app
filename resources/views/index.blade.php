@@ -12,7 +12,7 @@
     </header>
 
     <div class="page-heading">
-        <h3>Profile Statistics asdasdsa asdsa</h3>
+        <h3>Profile Statistics</h3>
     </div>
     <div class="page-content">
         <section class="row">
