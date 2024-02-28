@@ -1,7 +1,7 @@
 @extends('layouts.main')
 
 @section('pageTitle')
-    Dashboard - Mazer Admin Dashboard
+    Dashboard - LMI Dashboard
 @endsection
 
 @section('content')
