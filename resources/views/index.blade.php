@@ -10,11 +10,11 @@
             <i class="bi bi-justify fs-3"></i>
         </a>
     </header>
-    
+
     <div class="page-heading">
-        <h3>Profile Statistics</h3>
-    </div> 
-    <div class="page-content"> 
+        <h3>Profile Statistics asdasdsa asdsa</h3>
+    </div>
+    <div class="page-content">
         <section class="row">
             <div class="col-12 col-lg-9">
                 <div class="row">
@@ -31,12 +31,12 @@
                                         <h6 class="text-muted font-semibold">Profile Views</h6>
                                         <h6 class="font-extrabold mb-0">112.000</h6>
                                     </div>
-                                </div> 
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-6 col-lg-3 col-md-6">
-                        <div class="card"> 
+                        <div class="card">
                             <div class="card-body px-4 py-4-5">
                                 <div class="row">
                                     <div class="col-md-4 col-lg-12 col-xl-12 col-xxl-5 d-flex justify-content-start ">
@@ -263,7 +263,7 @@
                             <button class='btn btn-block btn-xl btn-outline-primary font-bold mt-3'>Start Conversation</button>
                         </div>
                     </div>
-                </div> 
+                </div>
                 <div class="card">
                     <div class="card-header">
                         <h4>Visitors Profile</h4>
